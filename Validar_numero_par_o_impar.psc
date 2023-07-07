@@ -1,4 +1,4 @@
-Algoritmo validar_numeros
+Algoritmo Validar_numero_par_o_impar
 	definir numero1 Como Entero
 	
 	Mostrar "Ingrese numero a validar"
@@ -10,5 +10,6 @@ Algoritmo validar_numeros
 		Mostrar "El numero es impar"
 	FinSi
 	
+
 	
 FinAlgoritmo
